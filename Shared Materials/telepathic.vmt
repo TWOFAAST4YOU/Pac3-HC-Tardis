@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cem/toyota_smith/telepathic"
+	"$surfaceprop" "Flesh"
+	"$nodecal" "1"
+	"$selfillum" 1
+	"$selfillummask" "models/cem/toyota_smith/white"
+}

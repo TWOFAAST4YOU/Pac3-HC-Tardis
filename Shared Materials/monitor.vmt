@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cem/toyota_smith/monitor"
+	"$bumpmap" "models/cem/toyota_smith/generic_normal"
+	"$surfaceprop" "Plastic"
+	"$nodecal" "1"
+	"$nocull" "1"
+
+	$phong 					1
+	$phongexponent 			75
+	$phongboost 			15
+	$phongtint 				"[ .35 .35 .35 ]"
+	$phongfresnelranges 	"[0.05 0.5 1]"
+}

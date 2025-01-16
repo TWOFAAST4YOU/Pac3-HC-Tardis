@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cem/toyota_smith/scannersmith1"
+	"$selfillum" 1
+	"$selfillummask" "models/cem/toyota_smith/white"
+	"$nodecal" "1"
+}

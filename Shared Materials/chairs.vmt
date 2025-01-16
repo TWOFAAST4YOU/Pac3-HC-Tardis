@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cem/toyota_smith/chairs1"
+	"$bumpmap" "models/cem/toyota_smith/metal_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "Metal"
+	"$nodecal" "1"
+
+	"$color2" "[0.8 0.8 0.85]"
+
+//	"$envmap" "models/cem/toyota_smith/environment"
+	"$envmaptint" "[0.2 0.21 0.21]"
+
+	$phong 					1
+	$phongexponent 			75
+	$phongboost 			55
+	$phongtint 				"[ .05 .05 .05 ]"
+	$phongfresnelranges 	"[0.05 0.5 1]"
+
+	"$detail"				"detail/metal_detail_01"
+	"$detailscale"			"6.4"
+	"$detailblendfactor"	"0.05"
+	"$detailblendmode"		"1"
+
+	$rimlight 				"1"
+	$rimlightexponent 		"25"
+	$rimlightboost 			"1"
+}
